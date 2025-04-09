@@ -20,12 +20,4 @@ A real-time face mask detection web application built using deep learning and co
 - **Computer Vision:** OpenCV
 - **Web Framework:** Flask
 - **Model Architecture:** MobileNetV2
-- **Tools:** Git, GitHub
-
-## 📊 Performance
-
-- **Accuracy:** 95.2%
-- **Precision (Masked):** High (see full metrics in `evaluation_report.json`)
-
-
 
