@@ -4,7 +4,7 @@ A real-time face mask detection web application built using deep learning and co
 
 ## 🚀 Demo
 
-![Live Detection Demo](https://jordarvaibhav.netlify.app/)  
+![Live Detection Demo] https://jordarvaibhav.netlify.app/  
 
 ## 🧠 Features
 
